@@ -1,0 +1,20 @@
+(i) Select the domain button
+(ii) For personal use, select user domain
+(iii) Create domain
+(iv) Add user
+(v) Select execution role for the user
+(vi) Launch studio
+
+Inside the Studio lab:
+
+(i) Import necessary library
+(ii) Create Sagemaker session
+(iii) Define S3 bucket
+(iv) Get Sagemaker execution role
+(v) Upload data to S3
+(vi) Define output location
+(vii) Get the container
+(viii) Deploy trained model
+(ix) Set serializer & deserializer for inference
+(x) Predict using deployed model
+
